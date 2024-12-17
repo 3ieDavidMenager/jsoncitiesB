@@ -1,0 +1,4138 @@
+[
+  {
+    "city_id": 3035500,
+    "city_name": "Bacalan"
+  },
+  {
+    "city_id": 3035498,
+    "city_name": "Baccarat"
+  },
+  {
+    "city_id": 3035492,
+    "city_name": "Bachant"
+  },
+  {
+    "city_id": 3035482,
+    "city_name": "Bachy"
+  },
+  {
+    "city_id": 3035481,
+    "city_name": "Bacilly"
+  },
+  {
+    "city_id": 3035471,
+    "city_name": "Bacqueville-en-Caux"
+  },
+  {
+    "city_id": 6447242,
+    "city_name": "Badailhac"
+  },
+  {
+    "city_id": 3035462,
+    "city_name": "Badefols-d'Ans"
+  },
+  {
+    "city_id": 3035461,
+    "city_name": "Badefols-sur-Dordogne"
+  },
+  {
+    "city_id": 3035459,
+    "city_name": "Baden"
+  },
+  {
+    "city_id": 3035441,
+    "city_name": "Bagard"
+  },
+  {
+    "city_id": 3035432,
+    "city_name": "Bages"
+  },
+  {
+    "city_id": 3035425,
+    "city_name": "Bagnard"
+  },
+  {
+    "city_id": 3035419,
+    "city_name": "Bagneaux-sur-Loing"
+  },
+  {
+    "city_id": 3035409,
+    "city_name": "Bagneux"
+  },
+  {
+    "city_id": 6439323,
+    "city_name": "Bagnoles de l'Orne Normandie"
+  },
+  {
+    "city_id": 3035404,
+    "city_name": "Bagnoles-de-l'Orne"
+  },
+  {
+    "city_id": 3035403,
+    "city_name": "Bagnolet"
+  },
+  {
+    "city_id": 3035398,
+    "city_name": "Bagnols-en-Forêt"
+  },
+  {
+    "city_id": 6448187,
+    "city_name": "Bagnols-sur-Cèze"
+  },
+  {
+    "city_id": 3035418,
+    "city_name": "Bagnères-de-Bigorre"
+  },
+  {
+    "city_id": 3035416,
+    "city_name": "Bagnères-de-Luchon"
+  },
+  {
+    "city_id": 3035390,
+    "city_name": "Baguer-Morvan"
+  },
+  {
+    "city_id": 3035389,
+    "city_name": "Baguer-Pican"
+  },
+  {
+    "city_id": 3035388,
+    "city_name": "Baho"
+  },
+  {
+    "city_id": 6448832,
+    "city_name": "Bahus-Soubiran"
+  },
+  {
+    "city_id": 3035381,
+    "city_name": "Baigneaux"
+  },
+  {
+    "city_id": 3035376,
+    "city_name": "Baignes-Sainte-Radegonde"
+  },
+  {
+    "city_id": 6450419,
+    "city_name": "Baigts-de-Béarn"
+  },
+  {
+    "city_id": 3035370,
+    "city_name": "Baillargues"
+  },
+  {
+    "city_id": 3035365,
+    "city_name": "Bailleau-l'Évêque"
+  },
+  {
+    "city_id": 3035366,
+    "city_name": "Bailleau-le-Pin"
+  },
+  {
+    "city_id": 3035362,
+    "city_name": "Baillet-en-France"
+  },
+  {
+    "city_id": 3035359,
+    "city_name": "Bailleul"
+  },
+  {
+    "city_id": 3035352,
+    "city_name": "Bailleul-Sir-Berthoult"
+  },
+  {
+    "city_id": 3035351,
+    "city_name": "Bailleul-sur-Thérain"
+  },
+  {
+    "city_id": 3035349,
+    "city_name": "Bailleval"
+  },
+  {
+    "city_id": 3035340,
+    "city_name": "Bailly"
+  },
+  {
+    "city_id": 3035333,
+    "city_name": "Bailly-Carrois"
+  },
+  {
+    "city_id": 3035329,
+    "city_name": "Bailly-Romainvilliers"
+  },
+  {
+    "city_id": 3035324,
+    "city_name": "Bain-de-Bretagne"
+  },
+  {
+    "city_id": 3035325,
+    "city_name": "Baincthun"
+  },
+  {
+    "city_id": 6455108,
+    "city_name": "Bains"
+  },
+  {
+    "city_id": 3035317,
+    "city_name": "Bains-les-Bains"
+  },
+  {
+    "city_id": 3035316,
+    "city_name": "Bains-sur-Oust"
+  },
+  {
+    "city_id": 3035313,
+    "city_name": "Bainville-sur-Madon"
+  },
+  {
+    "city_id": 3035309,
+    "city_name": "Bais"
+  },
+  {
+    "city_id": 3035304,
+    "city_name": "Baisieux"
+  },
+  {
+    "city_id": 3035295,
+    "city_name": "Baixas"
+  },
+  {
+    "city_id": 3035286,
+    "city_name": "Balagny-sur-Thérain"
+  },
+  {
+    "city_id": 3035278,
+    "city_name": "Balan"
+  },
+  {
+    "city_id": 6450420,
+    "city_name": "Balansun"
+  },
+  {
+    "city_id": 3035267,
+    "city_name": "Balaruc-le-Vieux"
+  },
+  {
+    "city_id": 3035268,
+    "city_name": "Balaruc-les-Bains"
+  },
+  {
+    "city_id": 3035263,
+    "city_name": "Balazé"
+  },
+  {
+    "city_id": 3035260,
+    "city_name": "Balbigny"
+  },
+  {
+    "city_id": 3035254,
+    "city_name": "Baldersheim"
+  },
+  {
+    "city_id": 3035250,
+    "city_name": "Baleix"
+  },
+  {
+    "city_id": 3035244,
+    "city_name": "Baleyssagues"
+  },
+  {
+    "city_id": 6450423,
+    "city_name": "Baliros"
+  },
+  {
+    "city_id": 6448395,
+    "city_name": "Balizac"
+  },
+  {
+    "city_id": 3035230,
+    "city_name": "Ballainvilliers"
+  },
+  {
+    "city_id": 3035229,
+    "city_name": "Ballaison"
+  },
+  {
+    "city_id": 3035226,
+    "city_name": "Ballan-Miré"
+  },
+  {
+    "city_id": 3035228,
+    "city_name": "Ballancourt-sur-Essonne"
+  },
+  {
+    "city_id": 3035211,
+    "city_name": "Ballon"
+  },
+  {
+    "city_id": 3035207,
+    "city_name": "Ballot"
+  },
+  {
+    "city_id": 3035206,
+    "city_name": "Ballots"
+  },
+  {
+    "city_id": 3035204,
+    "city_name": "Balma"
+  },
+  {
+    "city_id": 3035186,
+    "city_name": "Balsac"
+  },
+  {
+    "city_id": 3035181,
+    "city_name": "Balzac"
+  },
+  {
+    "city_id": 3035160,
+    "city_name": "Ban-de-Laveline"
+  },
+  {
+    "city_id": 3035156,
+    "city_name": "Bandol"
+  },
+  {
+    "city_id": 3035142,
+    "city_name": "Banize"
+  },
+  {
+    "city_id": 3035139,
+    "city_name": "Bannalec"
+  },
+  {
+    "city_id": 3035123,
+    "city_name": "Banneville-sur-Ajon"
+  },
+  {
+    "city_id": 6448833,
+    "city_name": "Banos"
+  },
+  {
+    "city_id": 3035108,
+    "city_name": "Bansat"
+  },
+  {
+    "city_id": 3035099,
+    "city_name": "Bantzenheim"
+  },
+  {
+    "city_id": 6450174,
+    "city_name": "Banvou"
+  },
+  {
+    "city_id": 3035092,
+    "city_name": "Banyuls de la Marenda"
+  },
+  {
+    "city_id": 3035093,
+    "city_name": "Banyuls-dels-Aspres"
+  },
+  {
+    "city_id": 3035088,
+    "city_name": "Bapaume"
+  },
+  {
+    "city_id": 3034911,
+    "city_name": "Bar-le-Duc"
+  },
+  {
+    "city_id": 6446923,
+    "city_name": "Bar-sur-Aube"
+  },
+  {
+    "city_id": 3034800,
+    "city_name": "Bar-sur-Seine"
+  },
+  {
+    "city_id": 3035065,
+    "city_name": "Baraqueville"
+  },
+  {
+    "city_id": 3035055,
+    "city_name": "Barbaliche"
+  },
+  {
+    "city_id": 6449266,
+    "city_name": "Barbaste"
+  },
+  {
+    "city_id": 3035044,
+    "city_name": "Barbazan-Debat"
+  },
+  {
+    "city_id": 3035040,
+    "city_name": "Barbechat"
+  },
+  {
+    "city_id": 3035036,
+    "city_name": "Barbentane"
+  },
+  {
+    "city_id": 3035033,
+    "city_name": "Barberaz"
+  },
+  {
+    "city_id": 3035025,
+    "city_name": "Barbery"
+  },
+  {
+    "city_id": 3035016,
+    "city_name": "Barbezieux-Saint-Hilaire"
+  },
+  {
+    "city_id": 3035009,
+    "city_name": "Barbizon"
+  },
+  {
+    "city_id": 3034998,
+    "city_name": "Barby"
+  },
+  {
+    "city_id": 3035046,
+    "city_name": "Barbâtre"
+  },
+  {
+    "city_id": 3034995,
+    "city_name": "Barcaggio"
+  },
+  {
+    "city_id": 3034992,
+    "city_name": "Barcelonne-du-Gers"
+  },
+  {
+    "city_id": 3034991,
+    "city_name": "Barcelonnette"
+  },
+  {
+    "city_id": 6450425,
+    "city_name": "Barcus"
+  },
+  {
+    "city_id": 3034974,
+    "city_name": "Bardais"
+  },
+  {
+    "city_id": 6450426,
+    "city_name": "Bardos"
+  },
+  {
+    "city_id": 3034951,
+    "city_name": "Barentin"
+  },
+  {
+    "city_id": 3034950,
+    "city_name": "Barenton"
+  },
+  {
+    "city_id": 3034939,
+    "city_name": "Bargemon"
+  },
+  {
+    "city_id": 3034930,
+    "city_name": "Barie"
+  },
+  {
+    "city_id": 6450427,
+    "city_name": "Barinque"
+  },
+  {
+    "city_id": 3034921,
+    "city_name": "Barjac"
+  },
+  {
+    "city_id": 3034918,
+    "city_name": "Barjols"
+  },
+  {
+    "city_id": 3034915,
+    "city_name": "Barjouville"
+  },
+  {
+    "city_id": 3034903,
+    "city_name": "Barlin"
+  },
+  {
+    "city_id": 3034887,
+    "city_name": "Barneville-Plage"
+  },
+  {
+    "city_id": 6447197,
+    "city_name": "Baron-sur-Odon"
+  },
+  {
+    "city_id": 6447198,
+    "city_name": "Barou-en-Auge"
+  },
+  {
+    "city_id": 3034868,
+    "city_name": "Barr"
+  },
+  {
+    "city_id": 3034854,
+    "city_name": "Barrat"
+  },
+  {
+    "city_id": 3034852,
+    "city_name": "Barraute-Camu"
+  },
+  {
+    "city_id": 3034851,
+    "city_name": "Barraux"
+  },
+  {
+    "city_id": 6447243,
+    "city_name": "Barriac-les-Bosquets"
+  },
+  {
+    "city_id": 3034821,
+    "city_name": "Barrot"
+  },
+  {
+    "city_id": 3034807,
+    "city_name": "Barsac"
+  },
+  {
+    "city_id": 3034798,
+    "city_name": "Bart"
+  },
+  {
+    "city_id": 3034797,
+    "city_name": "Bartenheim"
+  },
+  {
+    "city_id": 6450429,
+    "city_name": "Barzun"
+  },
+  {
+    "city_id": 3034776,
+    "city_name": "Bas"
+  },
+  {
+    "city_id": 3034720,
+    "city_name": "Bas-Rhin"
+  },
+  {
+    "city_id": 3034746,
+    "city_name": "Bas-en-Basset"
+  },
+  {
+    "city_id": 6450312,
+    "city_name": "Bas-et-Lezat"
+  },
+  {
+    "city_id": 3034754,
+    "city_name": "Bascons"
+  },
+  {
+    "city_id": 3034733,
+    "city_name": "Basly"
+  },
+  {
+    "city_id": 3034713,
+    "city_name": "Bassan"
+  },
+  {
+    "city_id": 3034699,
+    "city_name": "Basse-Goulaine"
+  },
+  {
+    "city_id": 3034698,
+    "city_name": "Basse-Ham"
+  },
+  {
+    "city_id": 3034693,
+    "city_name": "Basse-Normandie"
+  },
+  {
+    "city_id": 6455053,
+    "city_name": "Bassens"
+  },
+  {
+    "city_id": 6448835,
+    "city_name": "Bassercles"
+  },
+  {
+    "city_id": 3034669,
+    "city_name": "Bassignac"
+  },
+  {
+    "city_id": 3034665,
+    "city_name": "Bassillac"
+  },
+  {
+    "city_id": 6447756,
+    "city_name": "Bassillac et Auberoche"
+  },
+  {
+    "city_id": 6617345,
+    "city_name": "Bassillon-Vauzé"
+  },
+  {
+    "city_id": 6440284,
+    "city_name": "Bassussarry"
+  },
+  {
+    "city_id": 3034645,
+    "city_name": "Bastanès"
+  },
+  {
+    "city_id": 6620209,
+    "city_name": "Bastelicaccia"
+  },
+  {
+    "city_id": 6448836,
+    "city_name": "Bastennes"
+  },
+  {
+    "city_id": 6448138,
+    "city_name": "Bastia"
+  },
+  {
+    "city_id": 3034608,
+    "city_name": "Batilly"
+  },
+  {
+    "city_id": 3034595,
+    "city_name": "Battenheim"
+  },
+  {
+    "city_id": 3034585,
+    "city_name": "Batz-sur-Mer"
+  },
+  {
+    "city_id": 3034582,
+    "city_name": "Baud"
+  },
+  {
+    "city_id": 6448838,
+    "city_name": "Baudignan"
+  },
+  {
+    "city_id": 3034569,
+    "city_name": "Baudre"
+  },
+  {
+    "city_id": 6440285,
+    "city_name": "Baudreix"
+  },
+  {
+    "city_id": 3034556,
+    "city_name": "Bauduen"
+  },
+  {
+    "city_id": 3034548,
+    "city_name": "Baugy"
+  },
+  {
+    "city_id": 3034554,
+    "city_name": "Baugé-en-Anjou"
+  },
+  {
+    "city_id": 3034543,
+    "city_name": "Baule"
+  },
+  {
+    "city_id": 3034541,
+    "city_name": "Baulne"
+  },
+  {
+    "city_id": 3034538,
+    "city_name": "Baulon"
+  },
+  {
+    "city_id": 3034535,
+    "city_name": "Baume-les-Dames"
+  },
+  {
+    "city_id": 3034529,
+    "city_name": "Bauné"
+  },
+  {
+    "city_id": 6449463,
+    "city_name": "Baupte"
+  },
+  {
+    "city_id": 6448399,
+    "city_name": "Baurech"
+  },
+  {
+    "city_id": 3034521,
+    "city_name": "Bauvin"
+  },
+  {
+    "city_id": 3034515,
+    "city_name": "Bavans"
+  },
+  {
+    "city_id": 3034514,
+    "city_name": "Bavay"
+  },
+  {
+    "city_id": 6447201,
+    "city_name": "Bavent"
+  },
+  {
+    "city_id": 3034506,
+    "city_name": "Bavilliers"
+  },
+  {
+    "city_id": 6447757,
+    "city_name": "Bayac"
+  },
+  {
+    "city_id": 6448400,
+    "city_name": "Bayas"
+  },
+  {
+    "city_id": 6446512,
+    "city_name": "Bayet"
+  },
+  {
+    "city_id": 6447202,
+    "city_name": "Bayeux"
+  },
+  {
+    "city_id": 3034476,
+    "city_name": "Bayon"
+  },
+  {
+    "city_id": 3034477,
+    "city_name": "Bayon-sur-Gironde"
+  },
+  {
+    "city_id": 3034475,
+    "city_name": "Bayonne"
+  },
+  {
+    "city_id": 3034463,
+    "city_name": "Bazainville"
+  },
+  {
+    "city_id": 3034461,
+    "city_name": "Bazancourt"
+  },
+  {
+    "city_id": 3034458,
+    "city_name": "Bazas"
+  },
+  {
+    "city_id": 3034454,
+    "city_name": "Bazeilles"
+  },
+  {
+    "city_id": 6449773,
+    "city_name": "Bazeilles-sur-Othain"
+  },
+  {
+    "city_id": 3034451,
+    "city_name": "Bazemont"
+  },
+  {
+    "city_id": 6449267,
+    "city_name": "Bazens"
+  },
+  {
+    "city_id": 3034446,
+    "city_name": "Bazet"
+  },
+  {
+    "city_id": 3034442,
+    "city_name": "Baziège"
+  },
+  {
+    "city_id": 3034432,
+    "city_name": "Bazoches-au-Houlme"
+  },
+  {
+    "city_id": 3034429,
+    "city_name": "Bazoches-les-Gallerandes"
+  },
+  {
+    "city_id": 3034426,
+    "city_name": "Bazoches-sur-Hoëne"
+  },
+  {
+    "city_id": 3034422,
+    "city_name": "Bazoges-en-Pareds"
+  },
+  {
+    "city_id": 3034413,
+    "city_name": "Bazouges-la-Pérouse"
+  },
+  {
+    "city_id": 3034411,
+    "city_name": "Bazouges-sur-le-Loir"
+  },
+  {
+    "city_id": 3034395,
+    "city_name": "Bearnès"
+  },
+  {
+    "city_id": 3034389,
+    "city_name": "Beaubie"
+  },
+  {
+    "city_id": 3034382,
+    "city_name": "Beaucaire"
+  },
+  {
+    "city_id": 3034376,
+    "city_name": "Beaucamps-le-Vieux"
+  },
+  {
+    "city_id": 6612533,
+    "city_name": "Beauce la Romaine"
+  },
+  {
+    "city_id": 3034369,
+    "city_name": "Beauchamp"
+  },
+  {
+    "city_id": 3034366,
+    "city_name": "Beauchamps"
+  },
+  {
+    "city_id": 6449139,
+    "city_name": "Beauchamps-sur-Huillard"
+  },
+  {
+    "city_id": 3034363,
+    "city_name": "Beauchastel"
+  },
+  {
+    "city_id": 3034343,
+    "city_name": "Beaucourt"
+  },
+  {
+    "city_id": 3034339,
+    "city_name": "Beaucouzé"
+  },
+  {
+    "city_id": 3034338,
+    "city_name": "Beaucroissant"
+  },
+  {
+    "city_id": 3034374,
+    "city_name": "Beaucé"
+  },
+  {
+    "city_id": 3034325,
+    "city_name": "Beaufay"
+  },
+  {
+    "city_id": 3034318,
+    "city_name": "Beaufort"
+  },
+  {
+    "city_id": 3034309,
+    "city_name": "Beaufort-en-Vallée"
+  },
+  {
+    "city_id": 7669107,
+    "city_name": "Beaufour"
+  },
+  {
+    "city_id": 6615896,
+    "city_name": "Beaufour-Druval"
+  },
+  {
+    "city_id": 6449268,
+    "city_name": "Beaugas"
+  },
+  {
+    "city_id": 3034297,
+    "city_name": "Beaugency"
+  },
+  {
+    "city_id": 3034287,
+    "city_name": "Beaujeu"
+  },
+  {
+    "city_id": 6450181,
+    "city_name": "Beaulandais"
+  },
+  {
+    "city_id": 3034274,
+    "city_name": "Beaulieu"
+  },
+  {
+    "city_id": 3034245,
+    "city_name": "Beaulieu-lès-Loches"
+  },
+  {
+    "city_id": 3034243,
+    "city_name": "Beaulieu-sous-la-Roche"
+  },
+  {
+    "city_id": 3034241,
+    "city_name": "Beaulieu-sur-Dordogne"
+  },
+  {
+    "city_id": 3034240,
+    "city_name": "Beaulieu-sur-Layon"
+  },
+  {
+    "city_id": 3034238,
+    "city_name": "Beaulieu-sur-Mer"
+  },
+  {
+    "city_id": 3034234,
+    "city_name": "Beaulon"
+  },
+  {
+    "city_id": 3034218,
+    "city_name": "Beaumes-de-Venise"
+  },
+  {
+    "city_id": 3034210,
+    "city_name": "Beaumetz-lès-Loges"
+  },
+  {
+    "city_id": 3034198,
+    "city_name": "Beaumont"
+  },
+  {
+    "city_id": 3034158,
+    "city_name": "Beaumont-Hague"
+  },
+  {
+    "city_id": 3034148,
+    "city_name": "Beaumont-Monteux"
+  },
+  {
+    "city_id": 3034170,
+    "city_name": "Beaumont-de-Lomagne"
+  },
+  {
+    "city_id": 3034169,
+    "city_name": "Beaumont-de-Pertuis"
+  },
+  {
+    "city_id": 3034160,
+    "city_name": "Beaumont-du-Gâtinais"
+  },
+  {
+    "city_id": 3034168,
+    "city_name": "Beaumont-du-Périgord"
+  },
+  {
+    "city_id": 3034164,
+    "city_name": "Beaumont-en-Auge"
+  },
+  {
+    "city_id": 3034159,
+    "city_name": "Beaumont-en-Véron"
+  },
+  {
+    "city_id": 3034155,
+    "city_name": "Beaumont-la-Ronce"
+  },
+  {
+    "city_id": 3034153,
+    "city_name": "Beaumont-le-Roger"
+  },
+  {
+    "city_id": 3034149,
+    "city_name": "Beaumont-lès-Valence"
+  },
+  {
+    "city_id": 3034142,
+    "city_name": "Beaumont-sur-Lèze"
+  },
+  {
+    "city_id": 3034141,
+    "city_name": "Beaumont-sur-Oise"
+  },
+  {
+    "city_id": 3034140,
+    "city_name": "Beaumont-sur-Sarthe"
+  },
+  {
+    "city_id": 6447758,
+    "city_name": "Beaumontois en Périgord"
+  },
+  {
+    "city_id": 3034126,
+    "city_name": "Beaune"
+  },
+  {
+    "city_id": 6618124,
+    "city_name": "Beaune-d'Allier"
+  },
+  {
+    "city_id": 3034122,
+    "city_name": "Beaune-la-Rolande"
+  },
+  {
+    "city_id": 3034120,
+    "city_name": "Beaune-sur-Arzon"
+  },
+  {
+    "city_id": 3034115,
+    "city_name": "Beaupouyet"
+  },
+  {
+    "city_id": 3034111,
+    "city_name": "Beaupréau"
+  },
+  {
+    "city_id": 3034107,
+    "city_name": "Beaupuy"
+  },
+  {
+    "city_id": 3034106,
+    "city_name": "Beauquesne"
+  },
+  {
+    "city_id": 3034103,
+    "city_name": "Beaurains"
+  },
+  {
+    "city_id": 3034101,
+    "city_name": "Beaurainville"
+  },
+  {
+    "city_id": 3034066,
+    "city_name": "Beauregard-Vendon"
+  },
+  {
+    "city_id": 6447760,
+    "city_name": "Beauregard-de-Terrasson"
+  },
+  {
+    "city_id": 3034067,
+    "city_name": "Beauregard-l'Évêque"
+  },
+  {
+    "city_id": 3034062,
+    "city_name": "Beaurepaire"
+  },
+  {
+    "city_id": 3034054,
+    "city_name": "Beaurevoir"
+  },
+  {
+    "city_id": 6447762,
+    "city_name": "Beauronne"
+  },
+  {
+    "city_id": 3034044,
+    "city_name": "Beausemblant"
+  },
+  {
+    "city_id": 3034041,
+    "city_name": "Beausoleil"
+  },
+  {
+    "city_id": 6429067,
+    "city_name": "Beaussais-sur-Mer"
+  },
+  {
+    "city_id": 6443842,
+    "city_name": "Beautheil-Saints"
+  },
+  {
+    "city_id": 6448401,
+    "city_name": "Beautiran"
+  },
+  {
+    "city_id": 3034023,
+    "city_name": "Beautor"
+  },
+  {
+    "city_id": 3034006,
+    "city_name": "Beauvais"
+  },
+  {
+    "city_id": 3034001,
+    "city_name": "Beauval"
+  },
+  {
+    "city_id": 3033999,
+    "city_name": "Beauvallon"
+  },
+  {
+    "city_id": 3033971,
+    "city_name": "Beauvoir-de-Marc"
+  },
+  {
+    "city_id": 3033968,
+    "city_name": "Beauvoir-sur-Mer"
+  },
+  {
+    "city_id": 3033967,
+    "city_name": "Beauvoir-sur-Niort"
+  },
+  {
+    "city_id": 3033962,
+    "city_name": "Beauvois-en-Cambrésis"
+  },
+  {
+    "city_id": 3033959,
+    "city_name": "Beauvoisin"
+  },
+  {
+    "city_id": 3033956,
+    "city_name": "Beaux"
+  },
+  {
+    "city_id": 3033955,
+    "city_name": "Beauzac"
+  },
+  {
+    "city_id": 3033953,
+    "city_name": "Beauzelle"
+  },
+  {
+    "city_id": 3033853,
+    "city_name": "Behren-lès-Forbach"
+  },
+  {
+    "city_id": 3033851,
+    "city_name": "Beignon"
+  },
+  {
+    "city_id": 3033813,
+    "city_name": "Belberaud"
+  },
+  {
+    "city_id": 3033811,
+    "city_name": "Belbeuf"
+  },
+  {
+    "city_id": 3033803,
+    "city_name": "Belcodène"
+  },
+  {
+    "city_id": 3033792,
+    "city_name": "Belfonds"
+  },
+  {
+    "city_id": 3033791,
+    "city_name": "Belfort"
+  },
+  {
+    "city_id": 3033784,
+    "city_name": "Belgentier"
+  },
+  {
+    "city_id": 3033782,
+    "city_name": "Belguiral"
+  },
+  {
+    "city_id": 3033781,
+    "city_name": "Belhade"
+  },
+  {
+    "city_id": 3033773,
+    "city_name": "Belin-Béliet"
+  },
+  {
+    "city_id": 3033766,
+    "city_name": "Bellac"
+  },
+  {
+    "city_id": 3033760,
+    "city_name": "Bellaing"
+  },
+  {
+    "city_id": 6615912,
+    "city_name": "Belle Vie en Auge"
+  },
+  {
+    "city_id": 3033681,
+    "city_name": "Belle-Isle-en-Terre"
+  },
+  {
+    "city_id": 6620445,
+    "city_name": "Belle-Plagne"
+  },
+  {
+    "city_id": 3033707,
+    "city_name": "Bellefontaine"
+  },
+  {
+    "city_id": 3033695,
+    "city_name": "Bellegarde"
+  },
+  {
+    "city_id": 3033688,
+    "city_name": "Bellegarde-en-Forez"
+  },
+  {
+    "city_id": 3033685,
+    "city_name": "Bellegarde-sur-Valserine"
+  },
+  {
+    "city_id": 3033677,
+    "city_name": "Bellenaves"
+  },
+  {
+    "city_id": 3033675,
+    "city_name": "Belleneuve"
+  },
+  {
+    "city_id": 3033673,
+    "city_name": "Bellengreville"
+  },
+  {
+    "city_id": 3033669,
+    "city_name": "Bellentre"
+  },
+  {
+    "city_id": 6449779,
+    "city_name": "Belleray"
+  },
+  {
+    "city_id": 3033666,
+    "city_name": "Bellerive-sur-Allier"
+  },
+  {
+    "city_id": 3033657,
+    "city_name": "Belleu"
+  },
+  {
+    "city_id": 3033653,
+    "city_name": "Bellevaux"
+  },
+  {
+    "city_id": 6435333,
+    "city_name": "Bellevigne-en-Layon"
+  },
+  {
+    "city_id": 3033636,
+    "city_name": "Belleville"
+  },
+  {
+    "city_id": 3033647,
+    "city_name": "Belleville-sur-Loire"
+  },
+  {
+    "city_id": 3033637,
+    "city_name": "Belleville-sur-Meuse"
+  },
+  {
+    "city_id": 3033635,
+    "city_name": "Belleville-sur-Vie"
+  },
+  {
+    "city_id": 3033626,
+    "city_name": "Bellevue-la-Montagne"
+  },
+  {
+    "city_id": 3033625,
+    "city_name": "Belley"
+  },
+  {
+    "city_id": 3033619,
+    "city_name": "Bellignat"
+  },
+  {
+    "city_id": 3033618,
+    "city_name": "Belligné"
+  },
+  {
+    "city_id": 3033614,
+    "city_name": "Bellocq"
+  },
+  {
+    "city_id": 6450185,
+    "city_name": "Bellou-en-Houlme"
+  },
+  {
+    "city_id": 3033602,
+    "city_name": "Bellou-sur-Huisne"
+  },
+  {
+    "city_id": 3033598,
+    "city_name": "Belloy-en-France"
+  },
+  {
+    "city_id": 3033679,
+    "city_name": "Bellême"
+  },
+  {
+    "city_id": 3033579,
+    "city_name": "Belmont-de-la-Loire"
+  },
+  {
+    "city_id": 3033574,
+    "city_name": "Belmont-sur-Rance"
+  },
+  {
+    "city_id": 3033565,
+    "city_name": "Belpech"
+  },
+  {
+    "city_id": 6449469,
+    "city_name": "Belval"
+  },
+  {
+    "city_id": 3033546,
+    "city_name": "Belvès"
+  },
+  {
+    "city_id": 6448407,
+    "city_name": "Belvès-de-Castillon"
+  },
+  {
+    "city_id": 3033534,
+    "city_name": "Belz"
+  },
+  {
+    "city_id": 3033516,
+    "city_name": "Benaud"
+  },
+  {
+    "city_id": 3033495,
+    "city_name": "Benet"
+  },
+  {
+    "city_id": 3033488,
+    "city_name": "Benfeld"
+  },
+  {
+    "city_id": 3033477,
+    "city_name": "Bennecourt"
+  },
+  {
+    "city_id": 3033471,
+    "city_name": "Bennwihr"
+  },
+  {
+    "city_id": 6448844,
+    "city_name": "Benquet"
+  },
+  {
+    "city_id": 3033431,
+    "city_name": "Berbezit"
+  },
+  {
+    "city_id": 3033430,
+    "city_name": "Berbiguières"
+  },
+  {
+    "city_id": 6617275,
+    "city_name": "Berck"
+  },
+  {
+    "city_id": 3033416,
+    "city_name": "Berck-Plage"
+  },
+  {
+    "city_id": 3231370,
+    "city_name": "Bereult"
+  },
+  {
+    "city_id": 6455004,
+    "city_name": "Bergerac"
+  },
+  {
+    "city_id": 3033383,
+    "city_name": "Bergesserin"
+  },
+  {
+    "city_id": 3033382,
+    "city_name": "Bergheim"
+  },
+  {
+    "city_id": 3033380,
+    "city_name": "Bergholtz"
+  },
+  {
+    "city_id": 3033371,
+    "city_name": "Bergonce"
+  },
+  {
+    "city_id": 3033367,
+    "city_name": "Bergouey-Viellenave"
+  },
+  {
+    "city_id": 3033363,
+    "city_name": "Bergues"
+  },
+  {
+    "city_id": 3033356,
+    "city_name": "Berjou"
+  },
+  {
+    "city_id": 3033355,
+    "city_name": "Berlaimont"
+  },
+  {
+    "city_id": 3033316,
+    "city_name": "Bernardswiller"
+  },
+  {
+    "city_id": 3033312,
+    "city_name": "Bernaville"
+  },
+  {
+    "city_id": 3033308,
+    "city_name": "Bernay"
+  },
+  {
+    "city_id": 3033294,
+    "city_name": "Bernes-sur-Oise"
+  },
+  {
+    "city_id": 3033285,
+    "city_name": "Berneval-le-Grand"
+  },
+  {
+    "city_id": 3033269,
+    "city_name": "Bernin"
+  },
+  {
+    "city_id": 3033268,
+    "city_name": "Bernis"
+  },
+  {
+    "city_id": 3033273,
+    "city_name": "Bernières-le-Patry"
+  },
+  {
+    "city_id": 6447214,
+    "city_name": "Bernières-sur-Mer"
+  },
+  {
+    "city_id": 3033303,
+    "city_name": "Berné"
+  },
+  {
+    "city_id": 3033241,
+    "city_name": "Berre-l'Étang"
+  },
+  {
+    "city_id": 3033242,
+    "city_name": "Berre-les-Alpes"
+  },
+  {
+    "city_id": 3033238,
+    "city_name": "Berric"
+  },
+  {
+    "city_id": 3033236,
+    "city_name": "Berrien"
+  },
+  {
+    "city_id": 3033232,
+    "city_name": "Berrwiller"
+  },
+  {
+    "city_id": 3033220,
+    "city_name": "Berson"
+  },
+  {
+    "city_id": 3033219,
+    "city_name": "Berstett"
+  },
+  {
+    "city_id": 3033222,
+    "city_name": "Bersée"
+  },
+  {
+    "city_id": 3033208,
+    "city_name": "Berteaucourt-les-Dames"
+  },
+  {
+    "city_id": 3033202,
+    "city_name": "Bertheauville"
+  },
+  {
+    "city_id": 3033200,
+    "city_name": "Berthecourt"
+  },
+  {
+    "city_id": 3033183,
+    "city_name": "Bertignat"
+  },
+  {
+    "city_id": 3033163,
+    "city_name": "Bertrange"
+  },
+  {
+    "city_id": 6447766,
+    "city_name": "Bertric-Burée"
+  },
+  {
+    "city_id": 3033149,
+    "city_name": "Bertry"
+  },
+  {
+    "city_id": 3033131,
+    "city_name": "Berzet"
+  },
+  {
+    "city_id": 3033123,
+    "city_name": "Besançon"
+  },
+  {
+    "city_id": 3033113,
+    "city_name": "Beslon"
+  },
+  {
+    "city_id": 6449473,
+    "city_name": "Besneville"
+  },
+  {
+    "city_id": 3033108,
+    "city_name": "Besné"
+  },
+  {
+    "city_id": 3033099,
+    "city_name": "Bessan"
+  },
+  {
+    "city_id": 3033098,
+    "city_name": "Bessancourt"
+  },
+  {
+    "city_id": 6446517,
+    "city_name": "Bessay-sur-Allier"
+  },
+  {
+    "city_id": 3033085,
+    "city_name": "Besse"
+  },
+  {
+    "city_id": 3033074,
+    "city_name": "Besse-et-Saint-Anastaise"
+  },
+  {
+    "city_id": 3033065,
+    "city_name": "Besse-sur-Issole"
+  },
+  {
+    "city_id": 3033071,
+    "city_name": "Bessenay"
+  },
+  {
+    "city_id": 6451397,
+    "city_name": "Bessens"
+  },
+  {
+    "city_id": 3033068,
+    "city_name": "Besses"
+  },
+  {
+    "city_id": 3033053,
+    "city_name": "Bessines"
+  },
+  {
+    "city_id": 3033052,
+    "city_name": "Bessines-sur-Gartempe"
+  },
+  {
+    "city_id": 3033056,
+    "city_name": "Bessières"
+  },
+  {
+    "city_id": 3033073,
+    "city_name": "Bessèges"
+  },
+  {
+    "city_id": 3033066,
+    "city_name": "Bessé-sur-Braye"
+  },
+  {
+    "city_id": 3033006,
+    "city_name": "Bethoncourt"
+  },
+  {
+    "city_id": 2989816,
+    "city_name": "Betschdorf"
+  },
+  {
+    "city_id": 3032981,
+    "city_name": "Bettancourt-la-Ferrée"
+  },
+  {
+    "city_id": 3032965,
+    "city_name": "Betton"
+  },
+  {
+    "city_id": 3032957,
+    "city_name": "Betz"
+  },
+  {
+    "city_id": 3032939,
+    "city_name": "Beure"
+  },
+  {
+    "city_id": 3032931,
+    "city_name": "Beurières"
+  },
+  {
+    "city_id": 6440300,
+    "city_name": "Beuste"
+  },
+  {
+    "city_id": 3032919,
+    "city_name": "Beuville"
+  },
+  {
+    "city_id": 3032917,
+    "city_name": "Beuvillers"
+  },
+  {
+    "city_id": 3032915,
+    "city_name": "Beuvrages"
+  },
+  {
+    "city_id": 3032910,
+    "city_name": "Beuvrigny"
+  },
+  {
+    "city_id": 3032905,
+    "city_name": "Beuvron-en-Auge"
+  },
+  {
+    "city_id": 3032903,
+    "city_name": "Beuvry"
+  },
+  {
+    "city_id": 3032898,
+    "city_name": "Beuzec-Cap-Sizun"
+  },
+  {
+    "city_id": 3032896,
+    "city_name": "Beuzeville"
+  },
+  {
+    "city_id": 3032892,
+    "city_name": "Beuzeville-la-Grenier"
+  },
+  {
+    "city_id": 3032880,
+    "city_name": "Beychac"
+  },
+  {
+    "city_id": 3225373,
+    "city_name": "Beychevelle"
+  },
+  {
+    "city_id": 3032879,
+    "city_name": "Beylongue"
+  },
+  {
+    "city_id": 6447767,
+    "city_name": "Beynac-et-Cazenac"
+  },
+  {
+    "city_id": 3032872,
+    "city_name": "Beynes"
+  },
+  {
+    "city_id": 3032869,
+    "city_name": "Beynost"
+  },
+  {
+    "city_id": 6448846,
+    "city_name": "Beyries"
+  },
+  {
+    "city_id": 3032847,
+    "city_name": "Bezannes"
+  },
+  {
+    "city_id": 3032824,
+    "city_name": "Bezons"
+  },
+  {
+    "city_id": 3032823,
+    "city_name": "Bezouce"
+  },
+  {
+    "city_id": 3032815,
+    "city_name": "Biache-Saint-Vaast"
+  },
+  {
+    "city_id": 3032802,
+    "city_name": "Biard"
+  },
+  {
+    "city_id": 3032797,
+    "city_name": "Biarritz"
+  },
+  {
+    "city_id": 3032794,
+    "city_name": "Biars-sur-Cère"
+  },
+  {
+    "city_id": 3032791,
+    "city_name": "Bias"
+  },
+  {
+    "city_id": 6454498,
+    "city_name": "Bidache"
+  },
+  {
+    "city_id": 3032768,
+    "city_name": "Bidarray"
+  },
+  {
+    "city_id": 3032767,
+    "city_name": "Bidart"
+  },
+  {
+    "city_id": 3032737,
+    "city_name": "Bienville"
+  },
+  {
+    "city_id": 3032726,
+    "city_name": "Bierne"
+  },
+  {
+    "city_id": 3032712,
+    "city_name": "Biesheim"
+  },
+  {
+    "city_id": 3032711,
+    "city_name": "Biesles"
+  },
+  {
+    "city_id": 6448411,
+    "city_name": "Bieujac"
+  },
+  {
+    "city_id": 3032689,
+    "city_name": "Biganon"
+  },
+  {
+    "city_id": 3032688,
+    "city_name": "Biganos"
+  },
+  {
+    "city_id": 3032685,
+    "city_name": "Bignan"
+  },
+  {
+    "city_id": 3032678,
+    "city_name": "Bignoux"
+  },
+  {
+    "city_id": 3032671,
+    "city_name": "Bigot"
+  },
+  {
+    "city_id": 6448141,
+    "city_name": "Biguglia"
+  },
+  {
+    "city_id": 3032662,
+    "city_name": "Bihorel"
+  },
+  {
+    "city_id": 3032653,
+    "city_name": "Bilhères"
+  },
+  {
+    "city_id": 3032648,
+    "city_name": "Bilieu"
+  },
+  {
+    "city_id": 3032644,
+    "city_name": "Billas"
+  },
+  {
+    "city_id": 3032637,
+    "city_name": "Billezois"
+  },
+  {
+    "city_id": 3032629,
+    "city_name": "Billom"
+  },
+  {
+    "city_id": 3032622,
+    "city_name": "Billy-Berclau"
+  },
+  {
+    "city_id": 3032618,
+    "city_name": "Billy-Montigny"
+  },
+  {
+    "city_id": 3032615,
+    "city_name": "Billy-sur-Aisne"
+  },
+  {
+    "city_id": 6440306,
+    "city_name": "Billère"
+  },
+  {
+    "city_id": 3032600,
+    "city_name": "Binic"
+  },
+  {
+    "city_id": 3032598,
+    "city_name": "Bining"
+  },
+  {
+    "city_id": 3032596,
+    "city_name": "Biniville"
+  },
+  {
+    "city_id": 6450317,
+    "city_name": "Biollet"
+  },
+  {
+    "city_id": 6449478,
+    "city_name": "Bion"
+  },
+  {
+    "city_id": 3032579,
+    "city_name": "Biot"
+  },
+  {
+    "city_id": 6446522,
+    "city_name": "Biozat"
+  },
+  {
+    "city_id": 6455055,
+    "city_name": "Birac"
+  },
+  {
+    "city_id": 6449271,
+    "city_name": "Birac-sur-Trec"
+  },
+  {
+    "city_id": 3032568,
+    "city_name": "Biras"
+  },
+  {
+    "city_id": 3032567,
+    "city_name": "Biriatou"
+  },
+  {
+    "city_id": 6455089,
+    "city_name": "Biscarrosse"
+  },
+  {
+    "city_id": 3032553,
+    "city_name": "Biscarrosse-Plage"
+  },
+  {
+    "city_id": 3032551,
+    "city_name": "Bischheim"
+  },
+  {
+    "city_id": 3032549,
+    "city_name": "Bischoffsheim"
+  },
+  {
+    "city_id": 3032544,
+    "city_name": "Bischwiller"
+  },
+  {
+    "city_id": 6450662,
+    "city_name": "Bisel"
+  },
+  {
+    "city_id": 3032518,
+    "city_name": "Bitche"
+  },
+  {
+    "city_id": 3032509,
+    "city_name": "Bitschwiller-lès-Thann"
+  },
+  {
+    "city_id": 3032505,
+    "city_name": "Biviers"
+  },
+  {
+    "city_id": 3032497,
+    "city_name": "Bizanet"
+  },
+  {
+    "city_id": 6440308,
+    "city_name": "Bizanos"
+  },
+  {
+    "city_id": 3032492,
+    "city_name": "Bize-Minervois"
+  },
+  {
+    "city_id": 6446523,
+    "city_name": "Bizeneuille"
+  },
+  {
+    "city_id": 3032486,
+    "city_name": "Bizou"
+  },
+  {
+    "city_id": 3032695,
+    "city_name": "Bièvres"
+  },
+  {
+    "city_id": 6455151,
+    "city_name": "Biéville"
+  },
+  {
+    "city_id": 3032702,
+    "city_name": "Biéville-Quétiéville"
+  },
+  {
+    "city_id": 7669102,
+    "city_name": "Biéville-en-Auge"
+  },
+  {
+    "city_id": 3032481,
+    "city_name": "Blacé"
+  },
+  {
+    "city_id": 3032470,
+    "city_name": "Blaesheim"
+  },
+  {
+    "city_id": 3032469,
+    "city_name": "Blagnac"
+  },
+  {
+    "city_id": 3032468,
+    "city_name": "Blagny"
+  },
+  {
+    "city_id": 3032464,
+    "city_name": "Blaignac"
+  },
+  {
+    "city_id": 3032462,
+    "city_name": "Blain"
+  },
+  {
+    "city_id": 3032461,
+    "city_name": "Blaincourt-lès-Précy"
+  },
+  {
+    "city_id": 3032455,
+    "city_name": "Blainville-Crevon"
+  },
+  {
+    "city_id": 6449480,
+    "city_name": "Blainville-sur-Mer"
+  },
+  {
+    "city_id": 3032452,
+    "city_name": "Blainville-sur-Orne"
+  },
+  {
+    "city_id": 3032440,
+    "city_name": "Blaison-Gohier"
+  },
+  {
+    "city_id": 3032430,
+    "city_name": "Blamont"
+  },
+  {
+    "city_id": 3032403,
+    "city_name": "Blancafort"
+  },
+  {
+    "city_id": 6454259,
+    "city_name": "Blancs-Coteaux"
+  },
+  {
+    "city_id": 3032349,
+    "city_name": "Blangy-sur-Bresle"
+  },
+  {
+    "city_id": 6455057,
+    "city_name": "Blanquefort"
+  },
+  {
+    "city_id": 3032339,
+    "city_name": "Blanquefort-sur-Briolance"
+  },
+  {
+    "city_id": 6614117,
+    "city_name": "Blanzat"
+  },
+  {
+    "city_id": 3032326,
+    "city_name": "Blanzy"
+  },
+  {
+    "city_id": 3032319,
+    "city_name": "Blaringhem"
+  },
+  {
+    "city_id": 3032316,
+    "city_name": "Blasimon"
+  },
+  {
+    "city_id": 3032308,
+    "city_name": "Blausasc"
+  },
+  {
+    "city_id": 3032306,
+    "city_name": "Blauzac"
+  },
+  {
+    "city_id": 3032296,
+    "city_name": "Blavozy"
+  },
+  {
+    "city_id": 3032295,
+    "city_name": "Blay"
+  },
+  {
+    "city_id": 2967108,
+    "city_name": "Blaye"
+  },
+  {
+    "city_id": 3032292,
+    "city_name": "Blaye-les-Mines"
+  },
+  {
+    "city_id": 3032279,
+    "city_name": "Blendecques"
+  },
+  {
+    "city_id": 3032251,
+    "city_name": "Bletterans"
+  },
+  {
+    "city_id": 3032238,
+    "city_name": "Bliesbruck"
+  },
+  {
+    "city_id": 6446934,
+    "city_name": "Blignicourt"
+  },
+  {
+    "city_id": 3032228,
+    "city_name": "Bligny-lès-Beaune"
+  },
+  {
+    "city_id": 6447770,
+    "city_name": "Blis-et-Born"
+  },
+  {
+    "city_id": 3032218,
+    "city_name": "Blismes"
+  },
+  {
+    "city_id": 3032214,
+    "city_name": "Blodelsheim"
+  },
+  {
+    "city_id": 3032213,
+    "city_name": "Blois"
+  },
+  {
+    "city_id": 6446524,
+    "city_name": "Blomard"
+  },
+  {
+    "city_id": 3032202,
+    "city_name": "Blonville-sur-Mer"
+  },
+  {
+    "city_id": 3032196,
+    "city_name": "Blot"
+  },
+  {
+    "city_id": 6450318,
+    "city_name": "Blot-l'Église"
+  },
+  {
+    "city_id": 3032194,
+    "city_name": "Blotzheim"
+  },
+  {
+    "city_id": 3032191,
+    "city_name": "Bloux"
+  },
+  {
+    "city_id": 3032278,
+    "city_name": "Bléneau"
+  },
+  {
+    "city_id": 3032275,
+    "city_name": "Blénod-lès-Pont-à-Mousson"
+  },
+  {
+    "city_id": 3032274,
+    "city_name": "Blénod-lès-Toul"
+  },
+  {
+    "city_id": 3032269,
+    "city_name": "Blérancourt"
+  },
+  {
+    "city_id": 3032267,
+    "city_name": "Bléré"
+  },
+  {
+    "city_id": 3032263,
+    "city_name": "Blésignac"
+  },
+  {
+    "city_id": 3032179,
+    "city_name": "Bobigny"
+  },
+  {
+    "city_id": 3032160,
+    "city_name": "Bodilis"
+  },
+  {
+    "city_id": 3032153,
+    "city_name": "Boeil-Bezing"
+  },
+  {
+    "city_id": 3032146,
+    "city_name": "Boeschepe"
+  },
+  {
+    "city_id": 3032132,
+    "city_name": "Boffres"
+  },
+  {
+    "city_id": 3032129,
+    "city_name": "Bogon"
+  },
+  {
+    "city_id": 3032130,
+    "city_name": "Bogève"
+  },
+  {
+    "city_id": 3032127,
+    "city_name": "Bohain-en-Vermandois"
+  },
+  {
+    "city_id": 3032125,
+    "city_name": "Bohars"
+  },
+  {
+    "city_id": 3032118,
+    "city_name": "Boigny-sur-Bionne"
+  },
+  {
+    "city_id": 6614115,
+    "city_name": "Bois-Colombes"
+  },
+  {
+    "city_id": 3032027,
+    "city_name": "Bois-Grenier"
+  },
+  {
+    "city_id": 3032025,
+    "city_name": "Bois-Guillaume"
+  },
+  {
+    "city_id": 6615236,
+    "city_name": "Bois-d'Amont"
+  },
+  {
+    "city_id": 3032064,
+    "city_name": "Bois-d'Arcy"
+  },
+  {
+    "city_id": 3032062,
+    "city_name": "Bois-de-Cené"
+  },
+  {
+    "city_id": 6436902,
+    "city_name": "Bois-de-Haye"
+  },
+  {
+    "city_id": 6451149,
+    "city_name": "Bois-le-Roi"
+  },
+  {
+    "city_id": 6439236,
+    "city_name": "Boischampré"
+  },
+  {
+    "city_id": 3032069,
+    "city_name": "Boiscommun"
+  },
+  {
+    "city_id": 3032033,
+    "city_name": "Boisgervilly"
+  },
+  {
+    "city_id": 3031998,
+    "city_name": "Boismé"
+  },
+  {
+    "city_id": 6449482,
+    "city_name": "Boisroger"
+  },
+  {
+    "city_id": 6450193,
+    "city_name": "Boissei-la-Lande"
+  },
+  {
+    "city_id": 3031949,
+    "city_name": "Boisseron"
+  },
+  {
+    "city_id": 3031941,
+    "city_name": "Boisset-et-Gaujac"
+  },
+  {
+    "city_id": 6613349,
+    "city_name": "Boisset-les-Prévanches"
+  },
+  {
+    "city_id": 3031932,
+    "city_name": "Boisseuge"
+  },
+  {
+    "city_id": 3031930,
+    "city_name": "Boisseuil"
+  },
+  {
+    "city_id": 3031929,
+    "city_name": "Boisseuilh"
+  },
+  {
+    "city_id": 6447223,
+    "city_name": "Boissey"
+  },
+  {
+    "city_id": 3031925,
+    "city_name": "Boisseyres"
+  },
+  {
+    "city_id": 3031917,
+    "city_name": "Boissise-le-Roi"
+  },
+  {
+    "city_id": 3031900,
+    "city_name": "Boissy-Maugis"
+  },
+  {
+    "city_id": 3031898,
+    "city_name": "Boissy-Saint-Léger"
+  },
+  {
+    "city_id": 3031911,
+    "city_name": "Boissy-l'Aillerie"
+  },
+  {
+    "city_id": 3031906,
+    "city_name": "Boissy-le-Châtel"
+  },
+  {
+    "city_id": 3031905,
+    "city_name": "Boissy-le-Cutté"
+  },
+  {
+    "city_id": 3031896,
+    "city_name": "Boissy-sous-Saint-Yon"
+  },
+  {
+    "city_id": 3031883,
+    "city_name": "Boisyvon"
+  },
+  {
+    "city_id": 3031871,
+    "city_name": "Bolbec"
+  },
+  {
+    "city_id": 3031865,
+    "city_name": "Bollezeele"
+  },
+  {
+    "city_id": 3031864,
+    "city_name": "Bollwiller"
+  },
+  {
+    "city_id": 3031868,
+    "city_name": "Bollène"
+  },
+  {
+    "city_id": 3031862,
+    "city_name": "Bologne"
+  },
+  {
+    "city_id": 3031848,
+    "city_name": "Bompas"
+  },
+  {
+    "city_id": 3031813,
+    "city_name": "Bon-Encontre"
+  },
+  {
+    "city_id": 3031835,
+    "city_name": "Bonchamp-lès-Laval"
+  },
+  {
+    "city_id": 3031834,
+    "city_name": "Boncourt"
+  },
+  {
+    "city_id": 3031818,
+    "city_name": "Bondoufle"
+  },
+  {
+    "city_id": 3031817,
+    "city_name": "Bondues"
+  },
+  {
+    "city_id": 6451987,
+    "city_name": "Bondy"
+  },
+  {
+    "city_id": 6450319,
+    "city_name": "Bongheat"
+  },
+  {
+    "city_id": 3031801,
+    "city_name": "Bonifacio"
+  },
+  {
+    "city_id": 3031789,
+    "city_name": "Bonnac-la-Côte"
+  },
+  {
+    "city_id": 3031783,
+    "city_name": "Bonnat"
+  },
+  {
+    "city_id": 3031729,
+    "city_name": "Bonne"
+  },
+  {
+    "city_id": 6447224,
+    "city_name": "Bonnebosq"
+  },
+  {
+    "city_id": 3031769,
+    "city_name": "Bonnefamille"
+  },
+  {
+    "city_id": 6450196,
+    "city_name": "Bonnefoi"
+  },
+  {
+    "city_id": 3031766,
+    "city_name": "Bonnefond"
+  },
+  {
+    "city_id": 6448849,
+    "city_name": "Bonnegarde"
+  },
+  {
+    "city_id": 3031744,
+    "city_name": "Bonnelles"
+  },
+  {
+    "city_id": 3031743,
+    "city_name": "Bonnemain"
+  },
+  {
+    "city_id": 6447225,
+    "city_name": "Bonnemaison"
+  },
+  {
+    "city_id": 3031732,
+    "city_name": "Bonnes"
+  },
+  {
+    "city_id": 6448417,
+    "city_name": "Bonnetan"
+  },
+  {
+    "city_id": 3031710,
+    "city_name": "Bonneuil-Matours"
+  },
+  {
+    "city_id": 6613145,
+    "city_name": "Bonneuil-en-France"
+  },
+  {
+    "city_id": 3031711,
+    "city_name": "Bonneuil-les-Eaux"
+  },
+  {
+    "city_id": 6452010,
+    "city_name": "Bonneuil-sur-Marne"
+  },
+  {
+    "city_id": 3031702,
+    "city_name": "Bonneval"
+  },
+  {
+    "city_id": 3031693,
+    "city_name": "Bonnevaux"
+  },
+  {
+    "city_id": 3031682,
+    "city_name": "Bonnevialle"
+  },
+  {
+    "city_id": 3031679,
+    "city_name": "Bonneville"
+  },
+  {
+    "city_id": 6447226,
+    "city_name": "Bonneville-la-Louvet"
+  },
+  {
+    "city_id": 6447227,
+    "city_name": "Bonneville-sur-Touques"
+  },
+  {
+    "city_id": 3031665,
+    "city_name": "Bonnieux"
+  },
+  {
+    "city_id": 3031667,
+    "city_name": "Bonnières-sur-Seine"
+  },
+  {
+    "city_id": 3031657,
+    "city_name": "Bonnut"
+  },
+  {
+    "city_id": 3031656,
+    "city_name": "Bonny-sur-Loire"
+  },
+  {
+    "city_id": 3031723,
+    "city_name": "Bonnétable"
+  },
+  {
+    "city_id": 3031644,
+    "city_name": "Bons-en-Chablais"
+  },
+  {
+    "city_id": 6450197,
+    "city_name": "Bonsmoulins"
+  },
+  {
+    "city_id": 3031639,
+    "city_name": "Bonson"
+  },
+  {
+    "city_id": 3031616,
+    "city_name": "Boofzheim"
+  },
+  {
+    "city_id": 6448850,
+    "city_name": "Boos"
+  },
+  {
+    "city_id": 3031605,
+    "city_name": "Boran-sur-Oise"
+  },
+  {
+    "city_id": 3031599,
+    "city_name": "Bord"
+  },
+  {
+    "city_id": 6455058,
+    "city_name": "Bordeaux"
+  },
+  {
+    "city_id": 3031567,
+    "city_name": "Bordes"
+  },
+  {
+    "city_id": 3031552,
+    "city_name": "Bords"
+  },
+  {
+    "city_id": 3031537,
+    "city_name": "Borgo"
+  },
+  {
+    "city_id": 3031532,
+    "city_name": "Bormes-les-Mimosas"
+  },
+  {
+    "city_id": 3031520,
+    "city_name": "Borne"
+  },
+  {
+    "city_id": 3031516,
+    "city_name": "Bornel"
+  },
+  {
+    "city_id": 3031507,
+    "city_name": "Borredon"
+  },
+  {
+    "city_id": 3031506,
+    "city_name": "Borrèze"
+  },
+  {
+    "city_id": 6450320,
+    "city_name": "Bort-l'Étang"
+  },
+  {
+    "city_id": 3031501,
+    "city_name": "Bort-les-Orgues"
+  },
+  {
+    "city_id": 3031479,
+    "city_name": "Bosc-le-Hard"
+  },
+  {
+    "city_id": 6454501,
+    "city_name": "Bosdarros"
+  },
+  {
+    "city_id": 3031462,
+    "city_name": "Bosmie-l'Aiguille"
+  },
+  {
+    "city_id": 3031447,
+    "city_name": "Bosset"
+  },
+  {
+    "city_id": 6615682,
+    "city_name": "Bost"
+  },
+  {
+    "city_id": 3031433,
+    "city_name": "Bostens"
+  },
+  {
+    "city_id": 3031432,
+    "city_name": "Bostfaucher"
+  },
+  {
+    "city_id": 3031420,
+    "city_name": "Botmel"
+  },
+  {
+    "city_id": 3031409,
+    "city_name": "Bouafle"
+  },
+  {
+    "city_id": 3031403,
+    "city_name": "Bouaye"
+  },
+  {
+    "city_id": 3031402,
+    "city_name": "Boubas"
+  },
+  {
+    "city_id": 3031387,
+    "city_name": "Bouc-Bel-Air"
+  },
+  {
+    "city_id": 6612721,
+    "city_name": "Boucau"
+  },
+  {
+    "city_id": 3031386,
+    "city_name": "Bouce"
+  },
+  {
+    "city_id": 3031383,
+    "city_name": "Boucey"
+  },
+  {
+    "city_id": 6450082,
+    "city_name": "Bouchain"
+  },
+  {
+    "city_id": 3031368,
+    "city_name": "Bouchemaine"
+  },
+  {
+    "city_id": 3031359,
+    "city_name": "Bouches-du-Rhône"
+  },
+  {
+    "city_id": 3031384,
+    "city_name": "Boucé"
+  },
+  {
+    "city_id": 3031312,
+    "city_name": "Boueilh-Boueilho-Lasque"
+  },
+  {
+    "city_id": 3031294,
+    "city_name": "Bouffémont"
+  },
+  {
+    "city_id": 3031293,
+    "city_name": "Boufféré"
+  },
+  {
+    "city_id": 6440314,
+    "city_name": "Bougarber"
+  },
+  {
+    "city_id": 3031277,
+    "city_name": "Bougival"
+  },
+  {
+    "city_id": 6449276,
+    "city_name": "Bouglon"
+  },
+  {
+    "city_id": 6448853,
+    "city_name": "Bougue"
+  },
+  {
+    "city_id": 3031268,
+    "city_name": "Bouguenais"
+  },
+  {
+    "city_id": 3031240,
+    "city_name": "Bouillargues"
+  },
+  {
+    "city_id": 3031233,
+    "city_name": "Bouillon"
+  },
+  {
+    "city_id": 6613514,
+    "city_name": "Bouilly"
+  },
+  {
+    "city_id": 3031238,
+    "city_name": "Bouillé-Loretz"
+  },
+  {
+    "city_id": 3031222,
+    "city_name": "Bouin"
+  },
+  {
+    "city_id": 3031215,
+    "city_name": "Bouis"
+  },
+  {
+    "city_id": 6447853,
+    "city_name": "Boujailles"
+  },
+  {
+    "city_id": 3031205,
+    "city_name": "Boujan-sur-Libron"
+  },
+  {
+    "city_id": 3031191,
+    "city_name": "Boulange"
+  },
+  {
+    "city_id": 3031182,
+    "city_name": "Boulay-Moselle"
+  },
+  {
+    "city_id": 3031183,
+    "city_name": "Boulay-les-Barres"
+  },
+  {
+    "city_id": 3031180,
+    "city_name": "Boulazac"
+  },
+  {
+    "city_id": 6616146,
+    "city_name": "Boulazac Isle Manoire"
+  },
+  {
+    "city_id": 3031178,
+    "city_name": "Boulbon"
+  },
+  {
+    "city_id": 3031167,
+    "city_name": "Bouleurs"
+  },
+  {
+    "city_id": 6448420,
+    "city_name": "Bouliac"
+  },
+  {
+    "city_id": 3031161,
+    "city_name": "Boulieu-lès-Annonay"
+  },
+  {
+    "city_id": 3031158,
+    "city_name": "Bouligny"
+  },
+  {
+    "city_id": 3031146,
+    "city_name": "Boulleret"
+  },
+  {
+    "city_id": 3031144,
+    "city_name": "Bouloc"
+  },
+  {
+    "city_id": 3031137,
+    "city_name": "Boulogne-Billancourt"
+  },
+  {
+    "city_id": 3031135,
+    "city_name": "Boulogne-sur-Gesse"
+  },
+  {
+    "city_id": 6439391,
+    "city_name": "Boulogne-sur-Mer"
+  },
+  {
+    "city_id": 3031129,
+    "city_name": "Bouloire"
+  },
+  {
+    "city_id": 6447229,
+    "city_name": "Boulon"
+  },
+  {
+    "city_id": 3031123,
+    "city_name": "Boulouneix"
+  },
+  {
+    "city_id": 3031115,
+    "city_name": "Boult-sur-Suippe"
+  },
+  {
+    "city_id": 3031112,
+    "city_name": "Boumourt"
+  },
+  {
+    "city_id": 3031111,
+    "city_name": "Bouniagues"
+  },
+  {
+    "city_id": 3031098,
+    "city_name": "Bouray-sur-Juine"
+  },
+  {
+    "city_id": 3031090,
+    "city_name": "Bourbon-Lancy"
+  },
+  {
+    "city_id": 3031086,
+    "city_name": "Bourbonne-les-Bains"
+  },
+  {
+    "city_id": 3031085,
+    "city_name": "Bourbourg"
+  },
+  {
+    "city_id": 3031083,
+    "city_name": "Bourbourg- Campagne"
+  },
+  {
+    "city_id": 3031081,
+    "city_name": "Bourbriac"
+  },
+  {
+    "city_id": 3031080,
+    "city_name": "Bourcefranc-le-Chapus"
+  },
+  {
+    "city_id": 6613015,
+    "city_name": "Bourdalat"
+  },
+  {
+    "city_id": 3031068,
+    "city_name": "Bourdeilles"
+  },
+  {
+    "city_id": 6448421,
+    "city_name": "Bourdelles"
+  },
+  {
+    "city_id": 3031046,
+    "city_name": "Bourdoux"
+  },
+  {
+    "city_id": 3030947,
+    "city_name": "Bourg"
+  },
+  {
+    "city_id": 3012217,
+    "city_name": "Bourg de Joué-sur-Erdre"
+  },
+  {
+    "city_id": 3031035,
+    "city_name": "Bourg-Achard"
+  },
+  {
+    "city_id": 3031030,
+    "city_name": "Bourg-Argental"
+  },
+  {
+    "city_id": 3031027,
+    "city_name": "Bourg-Blanc"
+  },
+  {
+    "city_id": 3030989,
+    "city_name": "Bourg-Lastic"
+  },
+  {
+    "city_id": 3030953,
+    "city_name": "Bourg-Saint-Andéol"
+  },
+  {
+    "city_id": 3030949,
+    "city_name": "Bourg-Saint-Maurice"
+  },
+  {
+    "city_id": 3031020,
+    "city_name": "Bourg-de-Péage"
+  },
+  {
+    "city_id": 3031017,
+    "city_name": "Bourg-de-Thizy"
+  },
+  {
+    "city_id": 3031016,
+    "city_name": "Bourg-de-Visa"
+  },
+  {
+    "city_id": 3031019,
+    "city_name": "Bourg-des-Comptes"
+  },
+  {
+    "city_id": 3031018,
+    "city_name": "Bourg-des-Maisons"
+  },
+  {
+    "city_id": 3031013,
+    "city_name": "Bourg-du-Bost"
+  },
+  {
+    "city_id": 3031009,
+    "city_name": "Bourg-en-Bresse"
+  },
+  {
+    "city_id": 3030990,
+    "city_name": "Bourg-la-Reine"
+  },
+  {
+    "city_id": 6447897,
+    "city_name": "Bourg-lès-Valence"
+  },
+  {
+    "city_id": 3031032,
+    "city_name": "Bourganeuf"
+  },
+  {
+    "city_id": 3031029,
+    "city_name": "Bourgbarré"
+  },
+  {
+    "city_id": 6447230,
+    "city_name": "Bourgeauville"
+  },
+  {
+    "city_id": 3031005,
+    "city_name": "Bourges"
+  },
+  {
+    "city_id": 3030994,
+    "city_name": "Bourghelles"
+  },
+  {
+    "city_id": 3030979,
+    "city_name": "Bourgneuf"
+  },
+  {
+    "city_id": 3030970,
+    "city_name": "Bourgneuf-en-Retz"
+  },
+  {
+    "city_id": 3030967,
+    "city_name": "Bourgogne"
+  },
+  {
+    "city_id": 3030960,
+    "city_name": "Bourgoin"
+  },
+  {
+    "city_id": 6614456,
+    "city_name": "Bourgoin-Jallieu"
+  },
+  {
+    "city_id": 3030955,
+    "city_name": "Bourgougnague"
+  },
+  {
+    "city_id": 3030946,
+    "city_name": "Bourgtheroulde-Infreville"
+  },
+  {
+    "city_id": 3030944,
+    "city_name": "Bourgueil"
+  },
+  {
+    "city_id": 6449485,
+    "city_name": "Bourguenolles"
+  },
+  {
+    "city_id": 6447231,
+    "city_name": "Bourguébus"
+  },
+  {
+    "city_id": 6435643,
+    "city_name": "Bourgvallées"
+  },
+  {
+    "city_id": 6448422,
+    "city_name": "Bourideys"
+  },
+  {
+    "city_id": 3030920,
+    "city_name": "Bourlens"
+  },
+  {
+    "city_id": 3030919,
+    "city_name": "Bourlon"
+  },
+  {
+    "city_id": 3030908,
+    "city_name": "Bournazel"
+  },
+  {
+    "city_id": 3030902,
+    "city_name": "Bournezeau"
+  },
+  {
+    "city_id": 6447780,
+    "city_name": "Bourniquel"
+  },
+  {
+    "city_id": 3030895,
+    "city_name": "Bournoncle-Saint-Pierre"
+  },
+  {
+    "city_id": 6440318,
+    "city_name": "Bournos"
+  },
+  {
+    "city_id": 3030891,
+    "city_name": "Bourogne"
+  },
+  {
+    "city_id": 6449280,
+    "city_name": "Bourran"
+  },
+  {
+    "city_id": 6448855,
+    "city_name": "Bourriot-Bergonce"
+  },
+  {
+    "city_id": 3030876,
+    "city_name": "Bourron-Marlotte"
+  },
+  {
+    "city_id": 3030857,
+    "city_name": "Bourth"
+  },
+  {
+    "city_id": 3030847,
+    "city_name": "Bousbecque"
+  },
+  {
+    "city_id": 3030845,
+    "city_name": "Bousies"
+  },
+  {
+    "city_id": 3030836,
+    "city_name": "Boussac"
+  },
+  {
+    "city_id": 3030822,
+    "city_name": "Boussay"
+  },
+  {
+    "city_id": 3030819,
+    "city_name": "Bousse"
+  },
+  {
+    "city_id": 3030803,
+    "city_name": "Boussières"
+  },
+  {
+    "city_id": 3030799,
+    "city_name": "Boussois"
+  },
+  {
+    "city_id": 3030787,
+    "city_name": "Boussy-Saint-Antoine"
+  },
+  {
+    "city_id": 6613033,
+    "city_name": "Boussès"
+  },
+  {
+    "city_id": 3030772,
+    "city_name": "Bout-du-Pont-de-Larn"
+  },
+  {
+    "city_id": 3030781,
+    "city_name": "Boutaresse"
+  },
+  {
+    "city_id": 3030780,
+    "city_name": "Boutavent"
+  },
+  {
+    "city_id": 3030769,
+    "city_name": "Bouteilles-Saint-Sébastien"
+  },
+  {
+    "city_id": 3030760,
+    "city_name": "Bouteyras"
+  },
+  {
+    "city_id": 3030758,
+    "city_name": "Bouthéon"
+  },
+  {
+    "city_id": 3030757,
+    "city_name": "Boutiers-Saint-Trojan"
+  },
+  {
+    "city_id": 3030755,
+    "city_name": "Boutigny-sur-Essonne"
+  },
+  {
+    "city_id": 3030742,
+    "city_name": "Bouttencourt"
+  },
+  {
+    "city_id": 3030732,
+    "city_name": "Bouvesse-Quirieu"
+  },
+  {
+    "city_id": 3030728,
+    "city_name": "Bouvignies"
+  },
+  {
+    "city_id": 3030727,
+    "city_name": "Bouvigny-Boyeffles"
+  },
+  {
+    "city_id": 3030723,
+    "city_name": "Bouville"
+  },
+  {
+    "city_id": 3030718,
+    "city_name": "Bouvron"
+  },
+  {
+    "city_id": 3030714,
+    "city_name": "Bouxières-aux-Chênes"
+  },
+  {
+    "city_id": 3030713,
+    "city_name": "Bouxières-aux-Dames"
+  },
+  {
+    "city_id": 3030708,
+    "city_name": "Bouxwiller"
+  },
+  {
+    "city_id": 3030686,
+    "city_name": "Bouzarat"
+  },
+  {
+    "city_id": 6450323,
+    "city_name": "Bouzel"
+  },
+  {
+    "city_id": 3030676,
+    "city_name": "Bouzigues"
+  },
+  {
+    "city_id": 3030675,
+    "city_name": "Bouzillé"
+  },
+  {
+    "city_id": 3030668,
+    "city_name": "Bouzonville"
+  },
+  {
+    "city_id": 3030663,
+    "city_name": "Bouzy-la-Forêt"
+  },
+  {
+    "city_id": 3031315,
+    "city_name": "Boué"
+  },
+  {
+    "city_id": 3030659,
+    "city_name": "Boves"
+  },
+  {
+    "city_id": 3030656,
+    "city_name": "Boyard-Ville"
+  },
+  {
+    "city_id": 3030645,
+    "city_name": "Boynes"
+  },
+  {
+    "city_id": 3030641,
+    "city_name": "Bozel"
+  },
+  {
+    "city_id": 3030640,
+    "city_name": "Bozouls"
+  },
+  {
+    "city_id": 3032156,
+    "city_name": "Boé"
+  },
+  {
+    "city_id": 3032154,
+    "city_name": "Boëge"
+  },
+  {
+    "city_id": 3032151,
+    "city_name": "Boën-sur-Lignon"
+  },
+  {
+    "city_id": 3032150,
+    "city_name": "Boënat"
+  },
+  {
+    "city_id": 3030634,
+    "city_name": "Brach"
+  },
+  {
+    "city_id": 3030628,
+    "city_name": "Bracieux"
+  },
+  {
+    "city_id": 6449487,
+    "city_name": "Braffais"
+  },
+  {
+    "city_id": 3030600,
+    "city_name": "Brain-sur-Allonnes"
+  },
+  {
+    "city_id": 3030604,
+    "city_name": "Braine"
+  },
+  {
+    "city_id": 3030603,
+    "city_name": "Brains"
+  },
+  {
+    "city_id": 6449488,
+    "city_name": "Brainville"
+  },
+  {
+    "city_id": 3030591,
+    "city_name": "Braize"
+  },
+  {
+    "city_id": 3030589,
+    "city_name": "Bram"
+  },
+  {
+    "city_id": 3030561,
+    "city_name": "Brando"
+  },
+  {
+    "city_id": 3030565,
+    "city_name": "Brandérion"
+  },
+  {
+    "city_id": 3030553,
+    "city_name": "Branges"
+  },
+  {
+    "city_id": 3030546,
+    "city_name": "Branne"
+  },
+  {
+    "city_id": 3030542,
+    "city_name": "Branoux-les-Taillades"
+  },
+  {
+    "city_id": 3030534,
+    "city_name": "Brantôme"
+  },
+  {
+    "city_id": 6447784,
+    "city_name": "Brantôme en Périgord"
+  },
+  {
+    "city_id": 6454964,
+    "city_name": "Branville"
+  },
+  {
+    "city_id": 3030529,
+    "city_name": "Bras"
+  },
+  {
+    "city_id": 3030524,
+    "city_name": "Brasles"
+  },
+  {
+    "city_id": 3030522,
+    "city_name": "Brasparts"
+  },
+  {
+    "city_id": 3030520,
+    "city_name": "Brassac"
+  },
+  {
+    "city_id": 3030517,
+    "city_name": "Brassac-les-Mines"
+  },
+  {
+    "city_id": 6448856,
+    "city_name": "Brassempouy"
+  },
+  {
+    "city_id": 6448425,
+    "city_name": "Braud-et-Saint-Louis"
+  },
+  {
+    "city_id": 3030485,
+    "city_name": "Brax"
+  },
+  {
+    "city_id": 3030473,
+    "city_name": "Bray-Dunes"
+  },
+  {
+    "city_id": 3030468,
+    "city_name": "Bray-en-Val"
+  },
+  {
+    "city_id": 3030460,
+    "city_name": "Bray-sur-Seine"
+  },
+  {
+    "city_id": 3030459,
+    "city_name": "Bray-sur-Somme"
+  },
+  {
+    "city_id": 3030457,
+    "city_name": "Brazey-en-Plaine"
+  },
+  {
+    "city_id": 3030446,
+    "city_name": "Brebières"
+  },
+  {
+    "city_id": 3030440,
+    "city_name": "Brech"
+  },
+  {
+    "city_id": 6449490,
+    "city_name": "Brectouville"
+  },
+  {
+    "city_id": 3030420,
+    "city_name": "Bredons"
+  },
+  {
+    "city_id": 3030391,
+    "city_name": "Breil"
+  },
+  {
+    "city_id": 3030387,
+    "city_name": "Breil-sur-Roya"
+  },
+  {
+    "city_id": 6444302,
+    "city_name": "Breilly"
+  },
+  {
+    "city_id": 6450325,
+    "city_name": "Brenat"
+  },
+  {
+    "city_id": 3030340,
+    "city_name": "Brenouille"
+  },
+  {
+    "city_id": 6449342,
+    "city_name": "Brenoux"
+  },
+  {
+    "city_id": 3030338,
+    "city_name": "Brens"
+  },
+  {
+    "city_id": 3030323,
+    "city_name": "Bresles"
+  },
+  {
+    "city_id": 6446528,
+    "city_name": "Bresnay"
+  },
+  {
+    "city_id": 3030317,
+    "city_name": "Bressac"
+  },
+  {
+    "city_id": 3030308,
+    "city_name": "Bressols"
+  },
+  {
+    "city_id": 3030304,
+    "city_name": "Bressouleille"
+  },
+  {
+    "city_id": 6455270,
+    "city_name": "Bressuire"
+  },
+  {
+    "city_id": 3030300,
+    "city_name": "Brest"
+  },
+  {
+    "city_id": 3030293,
+    "city_name": "Bretagne"
+  },
+  {
+    "city_id": 3030286,
+    "city_name": "Bretagne-de-Marsan"
+  },
+  {
+    "city_id": 3030283,
+    "city_name": "Breteil"
+  },
+  {
+    "city_id": 3030278,
+    "city_name": "Bretenoux"
+  },
+  {
+    "city_id": 3030276,
+    "city_name": "Breteuil"
+  },
+  {
+    "city_id": 3030264,
+    "city_name": "Bretignolles-sur-Mer"
+  },
+  {
+    "city_id": 3030254,
+    "city_name": "Bretoncelles"
+  },
+  {
+    "city_id": 3030245,
+    "city_name": "Brette-les-Pins"
+  },
+  {
+    "city_id": 3030242,
+    "city_name": "Bretteville"
+  },
+  {
+    "city_id": 3030240,
+    "city_name": "Bretteville-du-Grand-Caux"
+  },
+  {
+    "city_id": 3030238,
+    "city_name": "Bretteville-l'Orgueilleuse"
+  },
+  {
+    "city_id": 3030236,
+    "city_name": "Bretteville-sur-Ay"
+  },
+  {
+    "city_id": 3030235,
+    "city_name": "Bretteville-sur-Dives"
+  },
+  {
+    "city_id": 6427101,
+    "city_name": "Bretteville-sur-Laize"
+  },
+  {
+    "city_id": 3030233,
+    "city_name": "Bretteville-sur-Odon"
+  },
+  {
+    "city_id": 3030197,
+    "city_name": "Breuil-Magné"
+  },
+  {
+    "city_id": 3030205,
+    "city_name": "Breuil-le-Sec"
+  },
+  {
+    "city_id": 3030202,
+    "city_name": "Breuil-le-Vert"
+  },
+  {
+    "city_id": 3030203,
+    "city_name": "Breuillet"
+  },
+  {
+    "city_id": 3030195,
+    "city_name": "Breuilpont"
+  },
+  {
+    "city_id": 3030191,
+    "city_name": "Breuschwickersheim"
+  },
+  {
+    "city_id": 6449493,
+    "city_name": "Breuville"
+  },
+  {
+    "city_id": 3030147,
+    "city_name": "Brezolles"
+  },
+  {
+    "city_id": 3030146,
+    "city_name": "Brezons"
+  },
+  {
+    "city_id": 3030142,
+    "city_name": "Briançon"
+  },
+  {
+    "city_id": 3030132,
+    "city_name": "Briare"
+  },
+  {
+    "city_id": 3030127,
+    "city_name": "Briatexte"
+  },
+  {
+    "city_id": 3030120,
+    "city_name": "Bricquebec"
+  },
+  {
+    "city_id": 6449496,
+    "city_name": "Bricquebec-en-Cotentin"
+  },
+  {
+    "city_id": 6449498,
+    "city_name": "Bricqueville-la-Blouette"
+  },
+  {
+    "city_id": 6449499,
+    "city_name": "Bricqueville-sur-Mer"
+  },
+  {
+    "city_id": 3030114,
+    "city_name": "Bricy"
+  },
+  {
+    "city_id": 3030108,
+    "city_name": "Brie"
+  },
+  {
+    "city_id": 3030101,
+    "city_name": "Brie-Comte-Robert"
+  },
+  {
+    "city_id": 3030102,
+    "city_name": "Briec"
+  },
+  {
+    "city_id": 3030094,
+    "city_name": "Brienne-la-Vieille"
+  },
+  {
+    "city_id": 3030093,
+    "city_name": "Brienne-le-Château"
+  },
+  {
+    "city_id": 3030091,
+    "city_name": "Briennon"
+  },
+  {
+    "city_id": 3030090,
+    "city_name": "Brienon-sur-Armançon"
+  },
+  {
+    "city_id": 3030071,
+    "city_name": "Briey"
+  },
+  {
+    "city_id": 3030063,
+    "city_name": "Brignais"
+  },
+  {
+    "city_id": 3030057,
+    "city_name": "Brignoles"
+  },
+  {
+    "city_id": 6449412,
+    "city_name": "Brigné"
+  },
+  {
+    "city_id": 3030047,
+    "city_name": "Brigueuil"
+  },
+  {
+    "city_id": 3030044,
+    "city_name": "Briis-sous-Forges"
+  },
+  {
+    "city_id": 3030029,
+    "city_name": "Brindas"
+  },
+  {
+    "city_id": 3030024,
+    "city_name": "Brinon-sur-Sauldre"
+  },
+  {
+    "city_id": 3030020,
+    "city_name": "Briollay"
+  },
+  {
+    "city_id": 3030011,
+    "city_name": "Brion"
+  },
+  {
+    "city_id": 3030007,
+    "city_name": "Brionne"
+  },
+  {
+    "city_id": 6455113,
+    "city_name": "Brioude"
+  },
+  {
+    "city_id": 3029992,
+    "city_name": "Brioux-sur-Boutonne"
+  },
+  {
+    "city_id": 3029991,
+    "city_name": "Briouze"
+  },
+  {
+    "city_id": 6454502,
+    "city_name": "Briscous"
+  },
+  {
+    "city_id": 3029986,
+    "city_name": "Brison-Saint-Innocent"
+  },
+  {
+    "city_id": 3029984,
+    "city_name": "Brissac-Quincé"
+  },
+  {
+    "city_id": 6447501,
+    "city_name": "Brive-la-Gaillarde"
+  },
+  {
+    "city_id": 3029970,
+    "city_name": "Brives-Charensac"
+  },
+  {
+    "city_id": 6449501,
+    "city_name": "Brix"
+  },
+  {
+    "city_id": 3030100,
+    "city_name": "Brié-et-Angonnes"
+  },
+  {
+    "city_id": 3029960,
+    "city_name": "Brocas"
+  },
+  {
+    "city_id": 3029959,
+    "city_name": "Brochard"
+  },
+  {
+    "city_id": 3029951,
+    "city_name": "Broglie"
+  },
+  {
+    "city_id": 3029934,
+    "city_name": "Bromont-Lamothe"
+  },
+  {
+    "city_id": 6455234,
+    "city_name": "Bron"
+  },
+  {
+    "city_id": 3029925,
+    "city_name": "Broons"
+  },
+  {
+    "city_id": 3029898,
+    "city_name": "Brou"
+  },
+  {
+    "city_id": 3029855,
+    "city_name": "Brou-sur-Chantereine"
+  },
+  {
+    "city_id": 3029894,
+    "city_name": "Brouay"
+  },
+  {
+    "city_id": 3029890,
+    "city_name": "Brouckerque"
+  },
+  {
+    "city_id": 6448426,
+    "city_name": "Brouqueyran"
+  },
+  {
+    "city_id": 3029869,
+    "city_name": "Brousse"
+  },
+  {
+    "city_id": 3029852,
+    "city_name": "Broût-Vernet"
+  },
+  {
+    "city_id": 3029829,
+    "city_name": "Bruailles"
+  },
+  {
+    "city_id": 3029825,
+    "city_name": "Bruay-la-Buissière"
+  },
+  {
+    "city_id": 3029824,
+    "city_name": "Bruay-sur-l'Escaut"
+  },
+  {
+    "city_id": 6449283,
+    "city_name": "Bruch"
+  },
+  {
+    "city_id": 6427104,
+    "city_name": "Brucourt"
+  },
+  {
+    "city_id": 3029804,
+    "city_name": "Brugeailles"
+  },
+  {
+    "city_id": 3029801,
+    "city_name": "Brugerolles"
+  },
+  {
+    "city_id": 3029799,
+    "city_name": "Bruges"
+  },
+  {
+    "city_id": 3029797,
+    "city_name": "Brugheas"
+  },
+  {
+    "city_id": 6449284,
+    "city_name": "Brugnac"
+  },
+  {
+    "city_id": 3029793,
+    "city_name": "Bruguières"
+  },
+  {
+    "city_id": 3029790,
+    "city_name": "Bruille-Saint-Amand"
+  },
+  {
+    "city_id": 3029791,
+    "city_name": "Bruille-lez-Marchiennes"
+  },
+  {
+    "city_id": 3029771,
+    "city_name": "Brumath"
+  },
+  {
+    "city_id": 3029748,
+    "city_name": "Brunoy"
+  },
+  {
+    "city_id": 3029746,
+    "city_name": "Brunstatt"
+  },
+  {
+    "city_id": 6438601,
+    "city_name": "Brunvillers-la-Motte"
+  },
+  {
+    "city_id": 3029725,
+    "city_name": "Bruyères"
+  },
+  {
+    "city_id": 3029718,
+    "city_name": "Bruyères-et-Montbérault"
+  },
+  {
+    "city_id": 3029717,
+    "city_name": "Bruyères-le-Châtel"
+  },
+  {
+    "city_id": 3029715,
+    "city_name": "Bruyères-sur-Oise"
+  },
+  {
+    "city_id": 3029713,
+    "city_name": "Bruz"
+  },
+  {
+    "city_id": 3029706,
+    "city_name": "Bry-sur-Marne"
+  },
+  {
+    "city_id": 3030456,
+    "city_name": "Bréal-sous-Montfort"
+  },
+  {
+    "city_id": 3030448,
+    "city_name": "Bréauté"
+  },
+  {
+    "city_id": 3030442,
+    "city_name": "Brécey"
+  },
+  {
+    "city_id": 3030444,
+    "city_name": "Brécé"
+  },
+  {
+    "city_id": 3030417,
+    "city_name": "Bréel"
+  },
+  {
+    "city_id": 3030405,
+    "city_name": "Bréhal"
+  },
+  {
+    "city_id": 3030403,
+    "city_name": "Bréhand"
+  },
+  {
+    "city_id": 3030367,
+    "city_name": "Brémoy"
+  },
+  {
+    "city_id": 3030257,
+    "city_name": "Brétigny-sur-Orge"
+  },
+  {
+    "city_id": 3030180,
+    "city_name": "Bréval"
+  },
+  {
+    "city_id": 3030171,
+    "city_name": "Bréviandes"
+  },
+  {
+    "city_id": 6449495,
+    "city_name": "Bréville-sur-Mer"
+  },
+  {
+    "city_id": 3030148,
+    "city_name": "Brézins"
+  },
+  {
+    "city_id": 3030155,
+    "city_name": "Brézé"
+  },
+  {
+    "city_id": 3030374,
+    "city_name": "Brêmes"
+  },
+  {
+    "city_id": 3029775,
+    "city_name": "Brûlon"
+  },
+  {
+    "city_id": 3029704,
+    "city_name": "Buais"
+  },
+  {
+    "city_id": 6615107,
+    "city_name": "Buais-Les-Monts"
+  },
+  {
+    "city_id": 3029697,
+    "city_name": "Bubry"
+  },
+  {
+    "city_id": 3029695,
+    "city_name": "Buc"
+  },
+  {
+    "city_id": 3029684,
+    "city_name": "Buchelay"
+  },
+  {
+    "city_id": 3029677,
+    "city_name": "Buchy"
+  },
+  {
+    "city_id": 3029682,
+    "city_name": "Buchères"
+  },
+  {
+    "city_id": 3029673,
+    "city_name": "Bucquoy"
+  },
+  {
+    "city_id": 3029670,
+    "city_name": "Bucy-le-Long"
+  },
+  {
+    "city_id": 6448427,
+    "city_name": "Budos"
+  },
+  {
+    "city_id": 3029656,
+    "city_name": "Bueil"
+  },
+  {
+    "city_id": 3029654,
+    "city_name": "Buellas"
+  },
+  {
+    "city_id": 3029637,
+    "city_name": "Bugeat"
+  },
+  {
+    "city_id": 6440319,
+    "city_name": "Bugnein"
+  },
+  {
+    "city_id": 3029620,
+    "city_name": "Buhl"
+  },
+  {
+    "city_id": 3029606,
+    "city_name": "Buironfosse"
+  },
+  {
+    "city_id": 3029603,
+    "city_name": "Buis-les-Baronnies"
+  },
+  {
+    "city_id": 3029597,
+    "city_name": "Buisson"
+  },
+  {
+    "city_id": 3029594,
+    "city_name": "Buisson-de-Fay"
+  },
+  {
+    "city_id": 3029580,
+    "city_name": "Bulgnéville"
+  },
+  {
+    "city_id": 6450328,
+    "city_name": "Bulhon"
+  },
+  {
+    "city_id": 3029572,
+    "city_name": "Bullion"
+  },
+  {
+    "city_id": 3029568,
+    "city_name": "Bully"
+  },
+  {
+    "city_id": 3029566,
+    "city_name": "Bully-les-Mines"
+  },
+  {
+    "city_id": 3029561,
+    "city_name": "Bunanges"
+  },
+  {
+    "city_id": 3029548,
+    "city_name": "Burbure"
+  },
+  {
+    "city_id": 3029545,
+    "city_name": "Burcy"
+  },
+  {
+    "city_id": 3029534,
+    "city_name": "Burel"
+  },
+  {
+    "city_id": 3029527,
+    "city_name": "Bures"
+  },
+  {
+    "city_id": 6427107,
+    "city_name": "Bures-les-Monts"
+  },
+  {
+    "city_id": 3029523,
+    "city_name": "Bures-sur-Dives"
+  },
+  {
+    "city_id": 3029522,
+    "city_name": "Bures-sur-Yvette"
+  },
+  {
+    "city_id": 3029505,
+    "city_name": "Burie"
+  },
+  {
+    "city_id": 3029503,
+    "city_name": "Burlats"
+  },
+  {
+    "city_id": 3029499,
+    "city_name": "Burnhaupt-le-Bas"
+  },
+  {
+    "city_id": 3029498,
+    "city_name": "Burnhaupt-le-Haut"
+  },
+  {
+    "city_id": 6440322,
+    "city_name": "Buros"
+  },
+  {
+    "city_id": 3029483,
+    "city_name": "Bury"
+  },
+  {
+    "city_id": 3029477,
+    "city_name": "Busigny"
+  },
+  {
+    "city_id": 3029473,
+    "city_name": "Busnes"
+  },
+  {
+    "city_id": 3029468,
+    "city_name": "Bussac"
+  },
+  {
+    "city_id": 3029465,
+    "city_name": "Bussac-sur-Charente"
+  },
+  {
+    "city_id": 6451800,
+    "city_name": "Bussang"
+  },
+  {
+    "city_id": 3029449,
+    "city_name": "Busserolles"
+  },
+  {
+    "city_id": 6446532,
+    "city_name": "Busset"
+  },
+  {
+    "city_id": 3029435,
+    "city_name": "Bussière-Badil"
+  },
+  {
+    "city_id": 3029433,
+    "city_name": "Bussière-Dunoise"
+  },
+  {
+    "city_id": 3029432,
+    "city_name": "Bussière-Galant"
+  },
+  {
+    "city_id": 3029429,
+    "city_name": "Bussière-Poitevine"
+  },
+  {
+    "city_id": 3029428,
+    "city_name": "Bussières"
+  },
+  {
+    "city_id": 6450330,
+    "city_name": "Bussières-et-Pruns"
+  },
+  {
+    "city_id": 3029392,
+    "city_name": "Bussy-Saint-Georges"
+  },
+  {
+    "city_id": 3029451,
+    "city_name": "Busséol"
+  },
+  {
+    "city_id": 3029377,
+    "city_name": "Butry-sur-Oise"
+  },
+  {
+    "city_id": 3029365,
+    "city_name": "Buxerolles"
+  },
+  {
+    "city_id": 3029355,
+    "city_name": "Buxières-les-Mines"
+  },
+  {
+    "city_id": 3029352,
+    "city_name": "Buxières-sous-Montaigut"
+  },
+  {
+    "city_id": 3029350,
+    "city_name": "Buxy"
+  },
+  {
+    "city_id": 3029345,
+    "city_name": "Buzançais"
+  },
+  {
+    "city_id": 6449285,
+    "city_name": "Buzet-sur-Baïse"
+  },
+  {
+    "city_id": 3029338,
+    "city_name": "Buzet-sur-Tarn"
+  },
+  {
+    "city_id": 6440326,
+    "city_name": "Buziet"
+  },
+  {
+    "city_id": 3035437,
+    "city_name": "Bâgé-la-Ville"
+  },
+  {
+    "city_id": 6448403,
+    "city_name": "Bègles"
+  },
+  {
+    "city_id": 6446514,
+    "city_name": "Bègues"
+  },
+  {
+    "city_id": 3033940,
+    "city_name": "Béchade"
+  },
+  {
+    "city_id": 3033927,
+    "city_name": "Bécon-les-Granits"
+  },
+  {
+    "city_id": 3033913,
+    "city_name": "Bédarieux"
+  },
+  {
+    "city_id": 3033912,
+    "city_name": "Bédarrides"
+  },
+  {
+    "city_id": 3033900,
+    "city_name": "Bédoin"
+  },
+  {
+    "city_id": 3033908,
+    "city_name": "Bédée"
+  },
+  {
+    "city_id": 6448839,
+    "city_name": "Bégaar"
+  },
+  {
+    "city_id": 3033886,
+    "city_name": "Bégadan"
+  },
+  {
+    "city_id": 6449822,
+    "city_name": "Béganne"
+  },
+  {
+    "city_id": 3033884,
+    "city_name": "Bégard"
+  },
+  {
+    "city_id": 3033870,
+    "city_name": "Bégrolles-en-Mauges"
+  },
+  {
+    "city_id": 3033799,
+    "city_name": "Bélesta"
+  },
+  {
+    "city_id": 3033776,
+    "city_name": "Béliet"
+  },
+  {
+    "city_id": 3033775,
+    "city_name": "Béligneux"
+  },
+  {
+    "city_id": 3033839,
+    "city_name": "Bélâbre"
+  },
+  {
+    "city_id": 3033500,
+    "city_name": "Bénesse-Maremne"
+  },
+  {
+    "city_id": 6614109,
+    "city_name": "Bénesse-lès-Dax"
+  },
+  {
+    "city_id": 3033481,
+    "city_name": "Béning-lès-Saint-Avold"
+  },
+  {
+    "city_id": 3033470,
+    "city_name": "Bénodet"
+  },
+  {
+    "city_id": 3033458,
+    "city_name": "Bénouville"
+  },
+  {
+    "city_id": 6447210,
+    "city_name": "Bény-sur-Mer"
+  },
+  {
+    "city_id": 6440292,
+    "city_name": "Bénéjacq"
+  },
+  {
+    "city_id": 3033435,
+    "city_name": "Bérat"
+  },
+  {
+    "city_id": 6449471,
+    "city_name": "Bérigny"
+  },
+  {
+    "city_id": 3033147,
+    "city_name": "Béruges"
+  },
+  {
+    "city_id": 3033116,
+    "city_name": "Bésingrand"
+  },
+  {
+    "city_id": 6451333,
+    "city_name": "Béthencourt-sur-Mer"
+  },
+  {
+    "city_id": 6449543,
+    "city_name": "Bétheny"
+  },
+  {
+    "city_id": 3033011,
+    "city_name": "Béthisy-Saint-Martin"
+  },
+  {
+    "city_id": 3033010,
+    "city_name": "Béthisy-Saint-Pierre"
+  },
+  {
+    "city_id": 3033002,
+    "city_name": "Béthune"
+  },
+  {
+    "city_id": 3032887,
+    "city_name": "Béville-le-Comte"
+  },
+  {
+    "city_id": 6446519,
+    "city_name": "Bézenet"
+  },
+  {
+    "city_id": 3032833,
+    "city_name": "Béziers"
+  },
+  {
+    "city_id": 3032818,
+    "city_name": "Bézu-Saint-Éloi"
+  },
+  {
+    "city_id": 3029705,
+    "city_name": "Bû"
+  },
+  {
+    "city_id": 3032147,
+    "city_name": "Bœrsch"
+  }
+]
